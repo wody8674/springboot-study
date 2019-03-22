@@ -1,6 +1,8 @@
 spring:
   application:
     name: SpringBootStudy
+  admin:
+    enabled: true
   datasource:
     url: jdbc:log4jdbc:mysql://218.232.111.216:3306/fotokids_dev
     username: fotokids_devshop
